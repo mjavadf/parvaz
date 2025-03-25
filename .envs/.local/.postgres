@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=parvaz
+POSTGRES_USER=HBvyvZnuXZaMpTVjfBjsINbfsLzOaKuE
+POSTGRES_PASSWORD=vX2dxLCzzlJl0AtQOF7fBwv4DlNBEnwHyQGplikuAJ4AKuGlkp9f9G41s3UTIL7k
